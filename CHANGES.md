@@ -1,3 +1,12 @@
+Version 0.4.1
+-------------
+
+### deprecation
+- deprecate old hash methods
+
+### bug fix
+- fix bug regarding `get_or_set`
+
 Version 0.4.0
 -------------
 
