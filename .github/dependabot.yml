@@ -14,5 +14,3 @@ updates:
       interval: weekly
     cooldown:  # https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html
       default-days: 7
-      exclude:
-        - "action/*"   # official actions start with action/
